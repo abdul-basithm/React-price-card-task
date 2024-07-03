@@ -1,0 +1,28 @@
+.card {
+    max-width: 18rem;
+}
+
+.card-header {
+    text-align: center;
+}
+
+#prjt {
+    opacity: 0.4;
+
+}
+
+button {
+    position: relative;
+    transform: translateX(80%);
+}
+
+.pad {
+    margin: 10px;
+}
+
+.card-group {
+    background-color: rgb(47, 47, 250);
+    display: inline-flex;
+    margin-left: 325px;
+    margin-top: 50px;
+}
